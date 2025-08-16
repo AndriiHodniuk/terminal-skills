@@ -1,0 +1,7 @@
+INFO: System startup successful.
+WARNING: Disk space is running low.
+ERROR: Failed to connect to database server at 192.168.1.1.
+INFO: User 'admin' logged in.
+Error: Null pointer exception.
+error: I/O error on device sda1.
+DEBUG: Connection established.
