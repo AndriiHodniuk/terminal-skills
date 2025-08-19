@@ -2,6 +2,6 @@
 
 echo "Please enter your name: "
 
-read USER_NAME
+read -r USER_NAME
 
 echo "Hello, $USER_NAME!"
